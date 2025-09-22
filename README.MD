@@ -1259,6 +1259,14 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/jsonpathkt-kotlinx)](https://central.sonatype.com/artifact/com.eygraber/jsonpathkt-kotlinx)
 > JsonPathKt provides a fast and performant way to work with JsonPath in Kotlin Multiplatform projects.
 
+### 🧩 Boilerplates
+
+[Kmp-Starter-Template](https://github.com/DevAtrii/Kmp-Starter-Template) - Boilerplate for Android & iOS with UI components, database, utils, bindings, and more
+[![GitHub Repo stars](https://img.shields.io/github/stars/DevAtrii/Kmp-Starter-Template?style=flat)](https://github.com/DevAtrii/Kmp-Starter-Template)
+> Kmp-Starter-Template helps you quickly start Kotlin Multiplatform projects with a ready-to-use structure covering shared code, Android, and iOS apps.
+
+
+
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!  
 Few rules:  
